@@ -1,0 +1,10 @@
+{
+	"description": "",
+	"startdate": "1/1",
+	"enddate": "12/31",
+	"usedst": 0,
+	"dststart": "",
+	"dstend": "",
+	"specialdays": [],
+	"firstdoy": 1
+}
